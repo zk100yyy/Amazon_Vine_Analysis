@@ -34,7 +34,6 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 
 
 ### Deliverable 2: Perform ETL on Amazon Product Reviews
-![click here for : Amazon_Reviews_ETL.ipynb file](https://github.com/dhaval-28/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 
 
 -----------------------------------------------------------------------------
